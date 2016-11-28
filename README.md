@@ -1,5 +1,4 @@
-Create a Restaurant application that utilizes the full stack.
+Create a Full Stack Restaurant application with Vagrant (from the Full Stack Fundamentals Course on Udacity).
 
-Using Vagrant and SQLAlchemy
+1. Create a database and populate it using SQLAlchemy.
 
-Common code for the Relational Databases and Full Stack Fundamentals courses on Udacity
