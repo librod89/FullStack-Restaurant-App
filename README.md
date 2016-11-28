@@ -1,4 +1,5 @@
-rdb-fullstack
-=============
+Create a Restaurant application that utilizes the full stack.
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+Using Vagrant and SQLAlchemy
+
+Common code for the Relational Databases and Full Stack Fundamentals courses on Udacity
